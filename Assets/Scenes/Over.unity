@@ -382,6 +382,18 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 84437936071700751, guid: 2f82097b87804f54197f465ff08bc940, type: 3}
+      propertyPath: m_audioClip
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 827873752274654675, guid: 2f82097b87804f54197f465ff08bc940, type: 3}
+      propertyPath: crash
+      value: 
+      objectReference: {fileID: 8300000, guid: 1bd396e24fa203f42957c51cd93e75fc, type: 3}
+    - target: {fileID: 827873752274654675, guid: 2f82097b87804f54197f465ff08bc940, type: 3}
+      propertyPath: success
+      value: 
+      objectReference: {fileID: 8300000, guid: f90e92503da7b6149a9182f12d4094a4, type: 3}
     - target: {fileID: 1125261577502359450, guid: 2f82097b87804f54197f465ff08bc940, type: 3}
       propertyPath: m_LocalPosition.x
       value: -5
@@ -422,6 +434,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3161717442709339430, guid: 2f82097b87804f54197f465ff08bc940, type: 3}
+      propertyPath: mainEngine
+      value: 
+      objectReference: {fileID: 8300000, guid: cfe0c256c7b78ba4d80861e426f95d2f, type: 3}
     - target: {fileID: 3250488349282664794, guid: 2f82097b87804f54197f465ff08bc940, type: 3}
       propertyPath: m_Name
       value: Rocket
