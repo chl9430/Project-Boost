@@ -358,6 +358,7 @@ GameObject:
   - component: {fileID: 84437936071700751}
   - component: {fileID: 827873752274654675}
   - component: {fileID: 5132310370687137349}
+  - component: {fileID: 1059096968802050992}
   m_Layer: 0
   m_Name: Rocket
   m_TagString: Untagged
@@ -581,6 +582,18 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 1.56, y: 1.5, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &1059096968802050992
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3250488349282664794}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 323eb89653f14014b8e8b1d737582ed0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &4145947515556952269
 GameObject:
   m_ObjectHideFlags: 0
